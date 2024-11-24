@@ -26,5 +26,5 @@ I'm Hojun, Backend developer from <img src="https://cdn-icons-png.flaticon.com/1
         - Add Groovy language support
 
 ## Where to find me
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=Github&logoColor=white)](https://github.com/psh10066)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%ED%98%B8%EC%A4%80-%EC%9D%B4-57005b2a5/)
 [![Tistory](https://img.shields.io/badge/Tistory-FF6C37?style=for-the-badge&logo=Tistory&logoColor=white)](https://hojun-dev.tistory.com)
