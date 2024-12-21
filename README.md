@@ -21,6 +21,10 @@ I'm Hojun, Backend developer from <img src="https://cdn-icons-png.flaticon.com/1
   - Beta reader
 
 ## Contributions
+- **SpringBoot Java/Kotlin Template**
+    - (PR) https://github.com/team-dodn/spring-boot-java-template/pull/24
+    - (PR) https://github.com/team-dodn/spring-boot-kotlin-template/pull/20
+        - Fix Hibernate sql properties
 - **Heynote**
     - (PR) https://github.com/heyman/heynote/pull/111
         - Add Groovy language support
