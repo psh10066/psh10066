@@ -16,18 +16,16 @@ I'm Hojun, Backend developer from <img src="https://cdn-icons-png.flaticon.com/1
 - **Fast Campus INNER CIRCLE 1기**
   - Team presentation 1st & Backend MVP
 
-## Books
-- **전문가를 위한 리액트** - 한빛미디어
-  - Beta reader
-
 ## Contributions
 - **SpringBoot Java/Kotlin Template**
-    - (PR) https://github.com/team-dodn/spring-boot-java-template/pull/24
-    - (PR) https://github.com/team-dodn/spring-boot-kotlin-template/pull/20
-        - Fix Hibernate sql properties
+    - Fix Hibernate sql properties ([Java](https://github.com/team-dodn/spring-boot-java-template/pull/24) / [Kotlin](https://github.com/team-dodn/spring-boot-kotlin-template/pull/20))
+    - Correct typo: 'depdency' to 'dependency' ([Java](https://github.com/team-dodn/spring-boot-java-template/pull/25) / [Kotlin](https://github.com/team-dodn/spring-boot-kotlin-template/pull/21))
 - **Heynote**
-    - (PR) https://github.com/heyman/heynote/pull/111
-        - Add Groovy language support
+    - Add Groovy language support ([PR](https://github.com/heyman/heynote/pull/111))
+
+## Books
+- **[전문가를 위한 리액트](https://product.kyobobook.co.kr/detail/S000214977649)** - 한빛미디어
+  - Beta reader
 
 ## Where to find me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/%ED%98%B8%EC%A4%80-%EC%9D%B4-57005b2a5/)
